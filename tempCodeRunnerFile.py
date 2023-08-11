@@ -1,0 +1,1 @@
+python calibration.py --dir calibration_checkerboard/ --square_size 0.024
